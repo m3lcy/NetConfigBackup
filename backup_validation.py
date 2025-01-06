@@ -12,7 +12,7 @@ def backups_config(device):
     try:
         net_connect = ConnectHandler(
             ip=device["ip"],
-            device_type=["device_type"],
+            device_type=device["device_type"],
             username=device["username"],
             password=device["password"], 
             port=device.get("port", 22)
