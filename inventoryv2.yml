@@ -1,0 +1,36 @@
+devices:
+  - ip: 172.16.12.35
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 192.168.12.36
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 172.16.12.37
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 172.16.12.38
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 172.16.12.39
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 172.16.12.40
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
+  - ip: 172.16.12.41
+    username: admin
+    password: cisco
+    device_type: ios
+    port: 22
