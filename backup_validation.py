@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 
-def load_inventory(file="inventory.yaml"):
+def load_inventory(file="inventory.yml"):
     with open(file, "r") as inventory_file:
         return yaml.safe_load(inventory_file)
 
